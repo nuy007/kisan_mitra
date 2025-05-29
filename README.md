@@ -1,54 +1,51 @@
-🧑‍🌾 Kisan Mitra
-🔗 Live Demo: https://kisan-mitra.netlify.app
+# 🧑‍🌾 Kisan Mitra
+
+🔗 **Live Demo:** [https://kisan-mitra.netlify.app](https://kisan-mitra.netlify.app)
 
 Kisan Mitra is a platform aimed at supporting farmers by providing them with essential information, tools, and resources to make better agricultural decisions.
 
-🚀 Features
-🗓️ Crop planning and advisory
+---
 
-🌤️ Weather updates and forecasts
+## 🚀 Features
 
-📈 Market price trends
+- 🗓️ Crop planning and advisory  
+- 🌤️ Weather updates and forecasts  
+- 📈 Market price trends  
+- 📚 Educational content and resources  
+- 🔔 Notifications and alerts for important updates  
 
-📚 Educational content and resources
+---
 
-🔔 Notifications and alerts for important updates
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript (or React/Vue — update if used)
+- **Frontend:** HTML, CSS, JavaScript *(or React/Vue — update if needed)*  
+- **Backend:** N/A *(or Node.js/Express — update if used)*  
+- **Hosting:** Netlify  
 
-Backend: N/A (or Node.js/Express — update if used)
+---
 
-Hosting: Netlify
+## 📁 Project Structure
 
-📁 Project Structure
-Copy
-Edit
 kisan_mitra/
 ├── index.html
 ├── style.css
 ├── script.js
 └── ...
-📦 Getting Started (For Developers)
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/nuy007/kisan_mitra.git
-cd kisan_mitra
-Open index.html in your browser, or run a local server (optional):
+---
 
-bash
-Copy
-Edit
-npx serve
-🙌 Acknowledgements
-Data and inspiration from agricultural development initiatives
 
-Weather and market APIs (if used — update this section)
+---
+
+## 📦 Getting Started (For Developers)
+
+1. Clone the repository:
+
+   git clone https://github.com/nuy007/kisan_mitra.git
+   cd kisan_mitra
+
+---
 
 📬 Contact
-For questions or feedback, feel free to reach out at:
+For questions or feedback, feel free to reach out:
 📧 bhuwanbhaskar10@gmail.com
-
